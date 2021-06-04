@@ -1,0 +1,8 @@
+V naslednjo vrstico vpisite tip lika (krog, crta, trikotnik, kvadrat, graf, sestkotnik):
+graf
+V naslednjo vrstico velikost lika:
+50
+ce ste izbrali graf, v naslednji dve vrstici vpisite tudi formulo (format: nx^exp +- nx^exp +- ... +- nx + n) in velikost koraka(npr. 0.2):
+x^21fas iojf iosndf
+3787823gdf
+Lik bo izpisan v naslednje vrstice:
