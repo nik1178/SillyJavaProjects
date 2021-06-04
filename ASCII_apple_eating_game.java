@@ -35,7 +35,7 @@ class Igralec{
 }
 
 
-public class nalogaNew {
+public class ASCII_apple_eating_game {
 	
 	public static void main(String[] args)throws Exception {
 		System.out.println("Igro igrata dva igralca, katera naprej svoje ime, pozicijo in znak vneseta v datoteko igralci.txt."
